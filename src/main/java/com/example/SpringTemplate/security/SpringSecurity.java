@@ -1,4 +1,4 @@
-package com.example.SpringTemplate.service;
+package com.example.SpringTemplate.security;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
